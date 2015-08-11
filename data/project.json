@@ -1,14 +1,14 @@
 ﻿[
     {
-      "GithubOrg": "Microsoft",
-      "GithubRepo": "TypeScript",
-      "Url": "http://www.typescriptlang.org",
-      "Language": "JavaScript",
+      "GithubOrg": "jekyll",
+      "GithubRepo": "jekyll-textile-converter",
+      "Url": "https://github.com/jekyll/jekyll-textile-converter/",
+      "Language": "Ruby",
       "License": {
         "Type": "Apache 2.0",
-        "Url": "https://github.com/Microsoft/TypeScript/blob/master/LICENSE.txt"
+        "Url": "https://github.com/jekyll/jekyll-textile-converter/blob/master/README.md"
       },
-      "Contributor" : "Microsoft"
+      "Contributor" : "Jekyll"
     },
     {
       "GithubOrg": "winjs",
